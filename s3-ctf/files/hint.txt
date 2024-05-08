@@ -1,0 +1,13 @@
+[INTERNAL MEMO]
+Subject: Storage Cleanup Notice
+
+A routine cleanup pass has been run on this environment.
+Some files have been removed from the active listing.
+
+Per our data retention policy, storage compliance requires that all
+previous versions of objects be retained indefinitely.
+
+If you are looking for a file that is no longer visible, check the
+full version history of this bucket.
+
+- Ops
