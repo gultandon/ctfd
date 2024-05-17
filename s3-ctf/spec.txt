@@ -1,0 +1,6 @@
+# aws s3 ctf
+- user sees a website
+- website url is an s3 index.html url (this is a hint)
+- using the previous hint, users must list out the contents of the s3 buckets in the browser
+- this will not have the flag yet, but the users must then list out the bucket with versions enabled, which will then show a deleted flag.txt
+- that file has the flag that the users can download and submit
